@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👯 I’m currently focusing on Frontend Developer.
 - 🔭 I’m currently working with ReactJS, NodeJS and TypeScript.
-- 🌱 I’m currently learning GraphQL and RxJS.
+- 🌱 I’m currently learning GraphQL and NextJS.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kienphi30999&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
